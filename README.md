@@ -1,2 +1,2 @@
-# TZ_OpenMyGame
-My terms of reference for OpenMyGame company
+# TA_OpenMyGame
+Technical assignmente for OpenMyGame company
